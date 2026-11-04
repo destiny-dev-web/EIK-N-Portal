@@ -1,0 +1,15 @@
+# Settings to type into Vercel (Project Settings > Environment Variables). This file is for reference only; do not put real secrets in it.
+
+# Database (added automatically when you connect Upstash Redis from the Vercel Storage tab)
+UPSTASH_REDIS_REST_URL=
+UPSTASH_REDIS_REST_TOKEN=
+
+# Long random text (at least 24 characters). Signs login sessions. Keep it private.
+SESSION_SECRET=
+
+# One-time code used by the first desk officer to create the first staff account.
+SETUP_CODE=
+
+# Email for password reset codes (https://resend.com)
+RESEND_API_KEY=
+MAIL_FROM=Eikon Academy <no-reply@yourdomain.com>

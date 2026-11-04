@@ -1,0 +1,7 @@
+{
+  "name": "eikon-academy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eikon Academy student and staff portals",
+  "engines": { "node": ">=18" }
+}
