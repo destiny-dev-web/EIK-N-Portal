@@ -1,0 +1,33 @@
+{
+  "name": "Eikon Academy Staff",
+  "short_name": "Eikon Staff",
+  "description": "Eikon Academy staff portal",
+  "id": "/staff",
+  "start_url": "/staff",
+  "scope": "/staff",
+  "background_color": "#1F2260",
+  "theme_color": "#1F2260",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
